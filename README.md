@@ -1,2 +1,2 @@
 # percentile
-A program which calculate the up-alpha percentile
+A program calculate the up-alpha percentile
